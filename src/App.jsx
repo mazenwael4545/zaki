@@ -1,5 +1,5 @@
 import Topbar from "./components/Topbar";
-import Checklist from "./components/checklist";
+import Checklist from "./components/Checklist";
 import Navbar from "./components/Navbar";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Pomodoro from "./components/Pomodoro";
